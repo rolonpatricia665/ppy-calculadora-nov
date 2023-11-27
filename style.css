@@ -29,7 +29,7 @@ body {
 }
 
 #detalle {
-    background: #FF416C;
+    background: #942e46;
     /* Con estas 3 lineas vamos a hacer que los divs queden lado a lado */
     width: 50%;
     height: 100%;
@@ -59,8 +59,8 @@ button {
     font-weight: bold;
     padding: 12px 45px;
     border-radius: 30px;
-    background-color: #FF416C;
-    border: 1px solid #FF416C;
+    background-color: #942e46;
+    border: 1px solid #942e46;
     color: #FFFFFF;
     text-transform: uppercase;
     letter-spacing: 1px;
